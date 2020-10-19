@@ -7,8 +7,16 @@ The app runs so long that the jackpot with user's numbers is achieved within a l
 
 ## Examples when app runs in Command Prompt
 
+### Two ways to insert lottery numbers
+
+![startExample1](https://github.com/ArturHaavisto/school/blob/main/media/startExample1.png)\
+When the app asks the numbers.
+
+![startExample2](https://github.com/ArturHaavisto/school/blob/main/media/startExample2.png)\
+Using the command line arguments to put lottery numbers.
+
 ![runExample1](https://github.com/ArturHaavisto/school/blob/main/media/runExample1.png)\
-User doesn't want to see weekly results. <br />
+User doesn't want to see weekly results.
 
 ![runExample2](https://github.com/ArturHaavisto/school/blob/main/media/runExample2.png)\
 User wants to see weekly results.
