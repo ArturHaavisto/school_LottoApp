@@ -7,9 +7,9 @@ The app runs so long that the jackpot with user's numbers is achieved within a l
 
 ## Examples when app runs in Command Prompt
 
-![User doesn't want to see weekly results.] (https://github.com/ArturHaavisto/school/blob/main/media/runExample1.png)
+![User doesn't want to see weekly results.](https://github.com/ArturHaavisto/school/blob/main/media/runExample1.png)
 
-![User wants to see weekly results.] (https://github.com/ArturHaavisto/school/blob/main/media/runExample2.png)
+![User wants to see weekly results.](https://github.com/ArturHaavisto/school/blob/main/media/runExample2.png)
 
 ## Customizability
 
