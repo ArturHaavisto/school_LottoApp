@@ -9,18 +9,18 @@ The app runs so long that the jackpot with user's numbers is achieved within a l
 
 ### Two ways to insert lottery numbers
 
-![startExample1](https://github.com/ArturHaavisto/school/blob/main/media/startExample1.png)\
+![startExample1](https://github.com/ArturHaavisto/school_LottoApp/blob/main/media/startExample1.png)\
 When the app asks the numbers.
 
-![startExample2](https://github.com/ArturHaavisto/school/blob/main/media/startExample2.png)\
+![startExample2](https://github.com/ArturHaavisto/school_LottoApp/blob/main/media/startExample2.png)\
 Using the command line arguments to put lottery numbers.
 
 ### Two ways the app will look when running.
 
-![runExample1](https://github.com/ArturHaavisto/school/blob/main/media/runExample1.png)\
+![runExample1](https://github.com/ArturHaavisto/school_LottoApp/blob/main/media/runExample1.png)\
 User doesn't want to see weekly results.
 
-![runExample2](https://github.com/ArturHaavisto/school/blob/main/media/runExample2.png)\
+![runExample2](https://github.com/ArturHaavisto/school_LottoApp/blob/main/media/runExample2.png)\
 User wants to see weekly results.
 
 ## Customizability
