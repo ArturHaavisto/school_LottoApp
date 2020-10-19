@@ -16,6 +16,7 @@ When the app asks the numbers.
 Using the command line arguments to put lottery numbers.
 
 ### Two ways the app will look when running.
+
 ![runExample1](https://github.com/ArturHaavisto/school/blob/main/media/runExample1.png)\
 User doesn't want to see weekly results.
 
